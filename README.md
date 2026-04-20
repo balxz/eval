@@ -1,11 +1,9 @@
-fitur:
-- self (only owner)
-- auto read sw
-- like sw
 
-- sticker
-- brat
-- bratvid
-- rt (runtime)
-- eval
-- exec
+── AMBATUBOT - MENU ──
+- *s*
+- *brat*
+- *bratvid*
+- *iqc*
+- *qc*
+
+> _masukan teks_
